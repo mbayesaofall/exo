@@ -1,1 +1,5 @@
 print("everithing is modified")
+print("slim")
+print("slim")
+print("slim")
+print("slim")
