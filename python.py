@@ -22,7 +22,3 @@ print("slim")
 print("slim")print("slim")
 print("slim")
 print("slim")
-print("slim")
-print("slim")
-print("slim")
-wewdwdwf
